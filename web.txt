@@ -1,0 +1,33 @@
+<html>
+<head>
+<style>
+h1 {
+  color:pink;
+  font-family: Times New Roman;
+  font-size: 300%;
+
+}
+
+p {
+  color: blue;
+  font-family: courier;
+  font-size: 150%;
+  border: 3px solid blue;
+  padding: 30px;
+  margin: 50px;
+  background-color: Lightblue;
+
+}
+
+</style>
+</head>
+<body>
+<h1> Chimmy's</h1>
+<p> This web page contains all my personal information.</p>
+<p> I am his wife</p>
+<p> my wife's age is 21 years old</p>
+
+
+
+</body>
+</html>
